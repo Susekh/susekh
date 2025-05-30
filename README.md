@@ -44,14 +44,14 @@ I’m currently learning more about distributed systems and improving performanc
   A memory card game made with React, GSAP animations, and Tailwind CSS — optimized for performance and visual flair.
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=susekh&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=susekh&theme=tokyonight" width="48%" />
 </p>
-
+-->
 ---
 
 ### 📫 Let’s Connect!
