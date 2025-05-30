@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Subhranshu]!
+# 👋 Hey there, I'm Subhranshu!
 
 I'm a **Full-Stack Developer** with 2+ years of experience building scalable, user-focused web applications. I specialize in **React.js**, **Node.js**, and **Next.js**, with a passion for clean architecture, real-world problem solving, and performance-driven design.
 
@@ -48,8 +48,8 @@ I’m currently learning more about distributed systems and improving performanc
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susekh&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susekh&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ I’m currently learning more about distributed systems and improving performanc
 
 - 🌐 [Portfolio Website](https://portfolio.khilar.me)
 - 📧 Email: subhranshukhilar@outlook.com, subhranshukhilar@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/subhranshu-sekhar-khilar-544a5b275/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/subhranshu-sekhar-khilar-544a5b275/)
 
 ---
 
