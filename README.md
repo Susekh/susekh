@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Subhranshu!
 
-I'm a **Full-Stack Developer** with 2+ years of experience building scalable, user-focused web applications. I specialize in **React.js**, **Node.js**, and **Next.js**, with a passion for clean architecture, real-world problem solving, and performance-driven design.
+I'm a **Full-Stack Developer** building scalable, user-focused web applications. I specialize in **React.js**, **Node.js**, and **Next.js**, with a passion for clean architecture, real-world problem solving, and performance-driven design.
 
 ---
 
